@@ -2,7 +2,7 @@
 
 	<append xpath="/recipes">
 	
-		<recipe name="resourceFioleAcide" count="2" craft_area="campfire">
+		<recipe name="resourceFioleAcide" count="2" craft_area="campfire" tags="learnable">
 	             <ingredient name="carBattery" count="1"/>
 			 <ingredient name="resourceVeninSerpent" count="1"/>
 	             <ingredient name="resourcePotassiumNitratePowder" count="200"/></recipe>
